@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12b59d87-8284-4196-be69-7641be6c3995" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../samplemvn/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../samplemvn/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../samplemvn/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../samplemvn/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../samplemvn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../samplemvn/samplemvn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../samplemvn/src/main/java/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../samplemvn/src/main/java/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../samplemvn/src/main/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nmrapp1/Screenshot from 2020-10-09 17-44-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nmrapp1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nmrapp1/js/controllers/movieviewcontroller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nmrapp1/js/controllers/searchmoviecontroller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nmrapp1/js/services/movieServices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nmrapp1/modular-movie-application" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nmrapp1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nmrapp1/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pull n push.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../searchbar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../searchbar/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../searchbar/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript-assignment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript-basics-assignment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../murali-js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kgkpjLboIn2VN2CkOyi2d5nxI4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12b59d87-8284-4196-be69-7641be6c3995" name="Default Changelist" comment="" />
+      <created>1606129811295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606129811295</updated>
+    </task>
+    <servers />
+  </component>
+</project>

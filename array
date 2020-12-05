@@ -1,0 +1,6 @@
+public class ArrayProgram {
+public static void main(String[] args) {
+int []num = {100,200,300,400};
+
+String []names = new String[5]; names[0]="Mahesh"; names[1] = "Sachin"; names[2] = "Subhash"; names[3] = "Ram"; names[4] = "Ravi"; for(String str : names){ System.out.println(str); } for(int a: num) System.out.println(a); }
+}

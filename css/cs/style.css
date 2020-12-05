@@ -1,0 +1,20 @@
+body
+{   
+    margin: 0;
+    padding: 20px;
+    font-size: 100%;
+}
+
+h1{ margin: 0 0 .5em;}
+
+.example01
+{
+    width: 500px;
+    height: 200px;
+    border: 1px dotted red;
+}
+
+.example01
+{
+    background: url(star.jpg) repeat-x 0 50% yellow;
+}

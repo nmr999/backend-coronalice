@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06c7502b-f496-471c-910d-8b5f27f57e11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/com.maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/src/main/java/com/legato/SpringCore/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/src/main/java/com/legato/SpringCore/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/src/main/java/com/legato/SpringCore/employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/src/main/java/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/target/classes/META-INF/maven/com.legato/SpringCore/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/target/classes/META-INF/maven/com.legato/SpringCore/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/target/classes/com/legato/SpringCore/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/target/classes/com/legato/SpringCore/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/target/classes/com/legato/SpringCore/employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/target/classes/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCore/target/test-classes/com/legato/SpringCore/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/._Spring" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/._SpringCore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/._.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/._src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/._target" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/src/._main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/src/main/._java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/src/main/java/._com" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/src/main/java/com/._legato" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/src/main/java/com/legato/._SpringCore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/target/._classes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/target/._test-classes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/target/classes/._META-INF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/target/classes/._com" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/target/classes/META-INF/._maven" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/target/classes/META-INF/maven/._com.legato" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/target/classes/META-INF/maven/com.legato/._SpringCore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/target/classes/com/._legato" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/target/classes/com/legato/._SpringCore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/target/test-classes/._com" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/target/test-classes/com/._legato" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Spring/SpringCore/target/test-classes/com/legato/._SpringCore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/SpringCore/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/SpringCore/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/SpringCore/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/SpringCore/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/SpringCore/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/SpringCore/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/SpringCore/SpringCore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/SpringCore/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/Springcore/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/Springcore/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/Springcore/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/Springcore/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/Springcore/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/Springcore/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/Springcore/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/Springcore/src/main/java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/samplemvn/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/samplemvn/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/samplemvn/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/samplemvn/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/samplemvn/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/samplemvn/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/samplemvn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/samplemvn/samplemvn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/samplemvn/src/main/java/com/legato/Springcore/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/samplemvn/src/main/java/com/legato/Springcore/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/samplemvn/src/main/java/com/legato/Springcore/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new6/samplemvn/src/main/java/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nmrapp1/Screenshot from 2020-10-09 17-44-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nmrapp1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nmrapp1/js/controllers/movieviewcontroller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nmrapp1/js/controllers/searchmoviecontroller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nmrapp1/js/services/movieServices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nmrapp1/modular-movie-application" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nmrapp1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nmrapp1/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pull n push.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../searchbar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../searchbar/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../searchbar/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/SpringCore/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/SpringCore/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/SpringCore/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/SpringCore/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/SpringCore/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/SpringCore/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/SpringCore/.idea/libraries/Maven__org_springframework_spring_aop_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/SpringCore/.idea/libraries/Maven__org_springframework_spring_beans_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/SpringCore/.idea/libraries/Maven__org_springframework_spring_context_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/SpringCore/.idea/libraries/Maven__org_springframework_spring_core_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/SpringCore/.idea/libraries/Maven__org_springframework_spring_expression_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/SpringCore/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/SpringCore/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/SpringCore/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/SpringCore/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/SpringCore/SpringCore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript-assignment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript-basics-assignment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../murali-js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kh0Reu9bHdxwZRmIu9KCCeArY3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06c7502b-f496-471c-910d-8b5f27f57e11" name="Default Changelist" comment="" />
+      <created>1606137508130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606137508130</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606137585502">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="449" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1606137585502" />
+  </component>
+</project>

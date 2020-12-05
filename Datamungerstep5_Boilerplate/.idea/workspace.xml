@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83e9d83c-ab95-4542-ae6a-14abad186b20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jGlvaC0KDMoaHFiCUru7adrutd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../datamungerstep5_boilerplate" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in DataMungerStep5">
+    <configuration name="All in DataMungerStep5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataMungerStep5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.stackroute.datamunger.test in DataMungerStep5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataMungerStep5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.datamunger.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.datamunger.test" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in DataMungerStep5" />
+        <item itemvalue="JUnit.com.stackroute.datamunger.test in DataMungerStep5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83e9d83c-ab95-4542-ae6a-14abad186b20" name="Default Changelist" comment="" />
+      <created>1603438542169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603438542169</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604230619003">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1604230619003" />
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1604230717578">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1604230717578" />
+    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1604230717578">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1604230717578" />
+    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1604230717578">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1604230717578" />
+    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1604230717578">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1604230717578" />
+    <state x="479" y="131" width="1024" height="852" key="SettingsEditor" timestamp="1604229314447">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="479" y="131" width="1024" height="852" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1604229314447" />
+    <state x="687" y="292" width="618" height="522" key="find.popup" timestamp="1604215780476">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="687" y="292" width="618" height="522" key="find.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1604215780476" />
+    <state x="305" y="257" width="1372" height="599" key="new project wizard" timestamp="1603520986035">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="305" y="257" width="1372" height="599" key="new project wizard/72.27.1848.1053@72.27.1848.1053" timestamp="1603520986035" />
+  </component>
+</project>

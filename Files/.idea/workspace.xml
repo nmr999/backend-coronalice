@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Age/src/AgeCalculator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Age/src/TestAgeCalculator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignmente/src/Age.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignmente/src/AgeCalculator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataMuger" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataMungerStep2_Boilerplate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/background/background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/background/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/bootstrap assignment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/javascript-assignment-100" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/nmr inst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 09-11-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 15-31-15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 15-32-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 15-33-41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 15-34-36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 15-35-41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 15-37-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 15-37-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 15-37-29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 15-48-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 15-56-47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 15-58-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 16-02-29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 16-02-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 16-03-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 16-05-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 16-07-46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 16-11-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 16-16-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 16-25-37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 16-28-56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Done/validation/Screenshot from 2020-10-01 16-30-45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/src/Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STRAB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ajs/modular-movie-application" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ajs/modular-movie-application-master/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ajs/modular-movie-application-master/js/controllers/movieviewcontroller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ajs/modular-movie-application-master/js/controllers/searchmoviecontroller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ajs/modular-movie-application-master/js/services/movieServices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ajs/modular-movie-application-master/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ajs/modular-movie-application-master/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../css/background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../css/cs/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../css/indexx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../css/line.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../css/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../css/star.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../css/to.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../css/utub.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../css/w3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fla.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../indcex.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../index.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../info.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../install codes/installjj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/controllers/movieviewcontroller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/controllers/searchmoviecontroller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/services/movieServices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nmr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nmrapp1/Screenshot from 2020-10-09 17-44-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nmrapp1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nmrapp1/js/controllers/movieviewcontroller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nmrapp1/js/controllers/searchmoviecontroller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nmrapp1/js/services/movieServices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nmrapp1/modular-movie-application" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nmrapp1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nmrapp1/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../op" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php -version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pull n push.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../py.ex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../py.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../searchbar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../searchbar/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../searchbar/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swathi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upload" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript-assignment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript-basics-assignment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../murali-js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectId" id="1jGMjleCUvMGOmdlwXgqIRIgum5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="Files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1302000" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>

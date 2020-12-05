@@ -1,0 +1,23 @@
+{
+    "employee":
+    [ {
+            "id":1,
+            "name":"nmr",
+            "email":"nandi@gmail.com"
+
+        },
+        {
+
+            "id":2,
+            "name":"nyr",
+            "email":"nyr@gmail.com"
+        },
+        {
+
+            "id":133,
+            "name":"nvr",
+            "email":"nvr@gmail.com"
+        }
+
+    ]
+}

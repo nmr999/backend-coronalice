@@ -1,0 +1,47 @@
+
+html, body {
+    height: 100vh;
+}
+
+
+#app {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* height: 100vh; */
+}
+
+#app > div {
+    margin: 0.4rem;
+}
+
+
+.card {
+    width: 30%;
+    padding: 1rem;
+    height: 60vh;
+    overflow: hidden;
+}
+
+.card-body > p {
+    height: 70%;
+    white-space: wrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.searchFeild {
+    padding: 4rem;
+    display: flex; 
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+#searchResults {
+    display: flex;
+    flex-direction:  row;
+    flex-wrap: wrap;
+    
+}
